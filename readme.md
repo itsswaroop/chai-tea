@@ -2,7 +2,7 @@
 
 A command-line chai vending machine program written in Python. It takes drink orders, checks ingredients, accepts rupee coins, gives change and tracks profit.
 
-<img src="" alt="Chai Tea Machine screenshot" width="600">
+<img src="./chaiTesScreenShot.png" alt="Chai Tea Machine screenshot" width="600">
 
 ## Features
 
